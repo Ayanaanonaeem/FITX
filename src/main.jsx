@@ -1,5 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
+// import { ThemeProvider } from './Context/ThemeContext'
 import { ThemeProvider } from './Context/ThemeContext'
 import App from './App'
 import './index.css'
